@@ -1,0 +1,17 @@
+spacialdb_development:
+  adapter: postgresql
+  host: beta.spacialdb.com
+  port: 9999
+  encoding: utf8
+  username: shoaib_burq
+  password: ssshhh
+  database: heroku_shoaib_burq_ssshhh
+
+spacialdb_production:
+  adapter: postgresql
+  host: beta.spacialdb.com
+  encoding: utf8
+  port: 9999
+  username: shoaib_burq
+  password: ssshhh
+  database: heroku_shoaib_burq_ssshhh
