@@ -4,4 +4,4 @@
 require File.expand_path('../config/application', __FILE__)
 require 'rake'
 
-GrowingMist252::Application.load_tasks
+SpacialdbRouting::Application.load_tasks
