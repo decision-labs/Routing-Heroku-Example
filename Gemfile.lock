@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/nofxx/georuby.git
+  revision: 009f0c4400f2c11be036410900844c2d61c20833
+  specs:
+    georuby (1.9.1)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -70,6 +76,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  georuby!
   pg
   rails (= 3.0.6)
   sqlite3
